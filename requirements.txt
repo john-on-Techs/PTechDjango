@@ -70,7 +70,7 @@ Pillow==6.2.0
 progressbar2==3.38.0
 psycopg2==2.7.6.1
 pyfcm==1.4.5
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.6.4
 PySocks==1.6.8
 python-cas==1.4.0
